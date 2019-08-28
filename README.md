@@ -29,7 +29,7 @@
    出現Express is listening on localhost:3000即成功，並移置 http://localhost:3000 顯示結果
 
 # 預覽畫面
-
+![index](https://github.com/jofu1123/password-generator/blob/master/photo/%E9%A0%90%E8%A6%BD.jpg)
 # 使用工具
  + [Visual Studio Code](https://visualstudio.microsoft.com/zh-hant/) -開發code環境
  + [Express](https://www.npmjs.com/package/express) -應用程式架構
